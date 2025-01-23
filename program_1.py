@@ -1,6 +1,4 @@
-def hello_world():
-    # Update the message below to say "Hello World", 
-    # Python cares about white space, so watch your indentation.
-    print('Hello ...')
-
-hello_world()
+Python 3.13.1 (v3.13.1:06714517797, Dec  3 2024, 14:00:22) [Clang 15.0.0 (clang-1500.3.9.4)] on darwin
+Type "help", "copyright", "credits" or "license()" for more information.
+>>> print('Hello World')
+Hello World
